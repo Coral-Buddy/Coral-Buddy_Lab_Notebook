@@ -8,10 +8,6 @@ I am a PhD student for the [Cnidarian Immunity Lab](https://www.cnidimmunitylab.
 
 I am dedicated to open, rigorous, and reproducible experiments and analyses.
 
-### More Information
-
-wwww.putnamlab.com
-
 ### Contact me
 
 [david_egp@hotmail.com](mailto:david_egp@hotmail.com)
