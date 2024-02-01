@@ -13,10 +13,10 @@ I am dedicated to open, rigorous, and reproducible experiments and analyses.
 [david_egp@hotmail.com](mailto:david_egp@hotmail.com)
 
 
-## <center>HOLLIE M. PUTNAM</center>
-<center>Department of Biological Sciences</center>
-<center>University of Rhode Island</center>
-<center>120 Flagg Road, Kingston RI 02881</center>
+## <center>David Ehrens</center>
+<center>Department of Biology and Ecology</center>
+<center>University of Miami, Rosenstiel School of Marine Atmospheric and Marine Sciences</center>
+<center>4600 Rickenbacker Causeway, Miami, FL, 33149</center>
 
 
 ### POSITIONS HELD
